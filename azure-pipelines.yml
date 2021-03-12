@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: vs2016-wim2017
+  vmImage: vs2017-wim2016
 
 steps:
 - script: echo Hello, world!
